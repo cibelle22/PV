@@ -97,13 +97,13 @@ body {
     flex-wrap: wrap;
 }
 
-.contador-digito {2
+.contador-digito {
     padding: 0 16px;
     text-align: center;
     min-width: 100px;
 }
 
-.contador-digito-numero {
+.contador-digito-numero {2
     font-size: 80px;
     margin: 0;
 
